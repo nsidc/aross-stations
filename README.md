@@ -26,7 +26,7 @@ we haven't got to it yet :)
 * [aross-stations-ui](https://github.com/nsidc/aross-stations-ui): Sits on top of the
   API and allows non-technical users to search events in the browser.
   * Visualizes event locations and total count for each station on a map.
-  * Visualizes event frequency on a bar plot.
+  * Visualizes event frequency for a single station on a bar plot.
 
 ```mermaid
 graph TD
